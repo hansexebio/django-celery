@@ -1,0 +1,55 @@
+Date: 31/8/2022
+Time: 13:47
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: HOla :D
+--------------------
+Date: 31/8/2022
+Time: 13:48
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: HOla :D
+--------------------
+Date: 31/8/2022
+Time: 13:49
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: HOla :D
+--------------------
+Date: 31/8/2022
+Time: 13:59
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: Culqi no funciona e imaginemos que se crea un codigo a las 2022-08-31 13:59:26.188606 y se vence en 20 segundos
+--------------------
+Date: 31/8/2022
+Time: 13:59
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: Adios :D
+--------------------
+Date: 31/8/2022
+Time: 14:3
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: TAREA PROGRAMADA : Culqi no funciona e imaginemos que se crea un codigo de pago a las 2022-08-31 14:03:33.423341 y se vence en 2 minutos
+--------------------
+Date: 31/8/2022
+Time: 14:5
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: Adios :D
+--------------------
+Date: 31/8/2022
+Time: 14:7
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: TAREA PROGRAMADA : Culqi no funciona e imaginemos que se crea un codigo de pago a las 2022-08-31 14:07:04.389296 y se vence en 2 minutos
+--------------------
+Date: 31/8/2022
+Time: 14:9
+Group ID: DcQvh7NRfXu2gIraUM5Ck9
+Message: Adios :D
+--------------------
+Date: 31/8/2022
+Time: 14:23
+Group ID: GFEO74r0c8f38eY4fQeKCc
+Message: TAREA PROGRAMADA : Culqi no funciona e imaginemos que se crea un codigo de pago a las 2022-08-31 14:23:19.526983 y vence en 2 minutos
+--------------------
+Date: 31/8/2022
+Time: 14:25
+Group ID: GFEO74r0c8f38eY4fQeKCc
+Message: TAREA PROGRAMADA: Codigo de pago culqui expirado a las2022-08-31 14:25:19.730614
+--------------------
